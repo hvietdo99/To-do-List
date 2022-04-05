@@ -1,5 +1,5 @@
 <p align="center">
-   ### SOTATEK TEST
+   SOTATEK TEST
    <br/>
    To-do List using ReactJS Framework
    <br/>
