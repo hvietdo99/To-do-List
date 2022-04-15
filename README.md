@@ -1,5 +1,4 @@
 <p align="center">
-   <br/>
    To-do List using ReactJS Framework (with LocalStorage, useContext to pass global states)
    <br/>
    <br/>
